@@ -1,0 +1,16 @@
+0,Harsh,M,OBC,Not Eligible,Diploma,Mechanical Engineering,88
+1,Abhay,M,St,yes,Degree,Computer Science,90
+2,Daksh,M,General,Not Eligible,Degree,AIML,85
+3,Nirali,F,Sc,yes,Degree,Computer Science,89
+4,Mahesh,M,OBC,Not Eligible,Diploma,Civil Engineering,96
+5,Nitin,M,General,Not Eligible,Diploma,Mechanical Engineering,87
+6,Krish,M,Sc,no,Degree,Chemical Engineering,75
+7,Tanisha,F,General,Not Eligible,Degree,Computer Science,90
+8,Krisha,F,OBC,Not Eligible,Degree,AIML,88
+9,Jinsi,F,General,Not Eligible,Degree,Biotechnology,82
+10,Darshit,M,Sc,no,Diploma,Civil Engineering,81
+11,Parth,M,OBC,Not Eligible,Diploma,Electronics,81
+12,Smit,M,St,yes,Degree,Computer Science,92
+13,Alex,M,General,Not Eligible,Diploma,Civil Engineering,81
+14,Aryan,M,Sc,no,Diploma,Electronics,82
+15,Bhavy,F,Sc,yes,Degree,Aerospace Engineering,88

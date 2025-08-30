@@ -1,0 +1,18 @@
+ID         Name                 Gender     Caste      Freeship        ProgramType     Branch                         Fee        Percentage     
+=======================================================================================================================================
+0          Harsh                M          OBC        Not Eligible    Diploma         Mechanical Engineering         45000      88             
+1          Abhay                M          St         yes             Degree          Computer Science               6000       90             
+2          Daksh                M          General    Not Eligible    Degree          AIML                           55000      85             
+3          Nirali               F          Sc         yes             Degree          Computer Science               6000       89             
+4          Mahesh               M          OBC        Not Eligible    Diploma         Civil Engineering              35000      96             
+5          Nitin                M          General    Not Eligible    Diploma         Mechanical Engineering         45000      87             
+6          Krish                M          Sc         no              Degree          Chemical Engineering           38000      75             
+7          Tanisha              F          General    Not Eligible    Degree          Computer Science               50000      90             
+8          Krisha               F          OBC        Not Eligible    Degree          AIML                           55000      88             
+9          Jinsi                F          General    Not Eligible    Degree          Biotechnology                  40000      82             
+10         Darshit              M          Sc         no              Diploma         Civil Engineering              35000      81             
+11         Parth                M          OBC        Not Eligible    Diploma         Electronics                    30000      81             
+12         Smit                 M          St         yes             Degree          Computer Science               6000       92             
+13         Alex                 M          General    Not Eligible    Diploma         Civil Engineering              35000      81             
+14         Aryan                M          Sc         no              Diploma         Electronics                    30000      82             
+15         Bhavy                F          Sc         yes             Degree          Aerospace Engineering          6000       88             
