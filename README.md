@@ -97,9 +97,6 @@ python main.py
 - Export functionality (PDF/Excel reports)
 - Multi-user support with role-based access
 
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
